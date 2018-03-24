@@ -554,7 +554,7 @@ Outlier Treatment
 
     p2[p2$dur>upper_limit,]$dur<-c(upper_limit)
 
--Capping the values to extreme
+- Capping the values to extreme
 
 Viewing Time series plot of "dur" variable
 ==========================================
