@@ -563,9 +563,9 @@ Viewing Time series plot of "dur" variable
 
 ![](task_files/figure-markdown_strict/unnamed-chunk-12-1.png)
 
--Plot is some what stationary time series (means appear constant also
-there is no trend) -Problem is to create time series data with regular
-time series interval - No seasonal pattern observed
+- Plot is some what stationary time series (means,variance,covriannce appear somewhat constant on broader scale) 
+- Problem is to create time series data with regular time series interval 
+- No seasonal pattern observed
 
 Creating time series with .1 time interval
 ==========================================
