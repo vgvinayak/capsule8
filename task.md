@@ -621,8 +621,8 @@ Understanding ACF and PACF plot
 
 ![](task_files/figure-markdown_strict/unnamed-chunk-15-2.png)
 
--   Since ACF plot decays slowly so it is mostly AR series by observing
-    -Also PACF cuts out after 1 lag so it is a AR1 process just by
+-   Since ACF plot decays slowly so it is mostly AR series (by observing).
+-   Also PACF cuts out after 1 lag so it is a AR1 process just by
     observing
 
 Applying Auto Arima model and predicting next 25 observations
@@ -645,7 +645,7 @@ Applying Auto Arima model and predicting next 25 observations
 -   So Final model is combination of AR(2) and MA(2) model
 -   Coefficients are specified
 -   As observed the data points were stationary so d=0 was taken i.e. no
-    need of differncing.
+    need of diffrencing.
 
 Forecasting next 25 values
 ==========================
